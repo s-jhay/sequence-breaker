@@ -1,7 +1,7 @@
 import time
 
 INPUT_FILE = "input.txt"
-OUTPUT_FILE = "output.txt" # accepts .txt or .csv
+OUTPUT_FILE = "output.txt"
 BLOCK_LENGTH = 60
 
 start_time = time.perf_counter()
